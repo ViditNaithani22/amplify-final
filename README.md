@@ -12,7 +12,7 @@
 <h3> Below that you will see the list of most important keywords selected from positive reviews and negative reviews, displayed in two different columns. </h3>
 <img width="318" alt="proj" src="https://github.com/ViditNaithani22/Uniview-terraform/assets/102232954/3fa2f9a4-3bbc-42d0-b035-215d3749405c">
 <br>
-### Below this, you will see the exact percentage of positive, negative, and neutral reviews. 
-### Finally at the end you will see five universities mentioned that you might be interested in based on your current selection.
+<h3> Below this, you will see the exact percentage of positive, negative, and neutral reviews. </h3> 
+<h3> Finally at the end you will see five universities mentioned that you might be interested in based on your current selection. </h3>
 <img width="296" alt="proj2" src="https://github.com/ViditNaithani22/Uniview-terraform/assets/102232954/4bd4c124-09a7-4397-be35-52f6b7c281b2">
 
