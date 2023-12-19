@@ -9,7 +9,7 @@
 ### Click on any university, and you will see a pie chart displaying the portion of positive, negative, and neutral reviews.
 <img width="323" alt="proj1" src="https://github.com/ViditNaithani22/Uniview-terraform/assets/102232954/ef15a248-7870-41df-bab9-914ec2507b82">
 <br>
-### Below that you will see the list of most important keywords selected from positive reviews and negative reviews, displayed in two different columns.
+<h3> Below that you will see the list of most important keywords selected from positive reviews and negative reviews, displayed in two different columns. </h3>
 <img width="318" alt="proj" src="https://github.com/ViditNaithani22/Uniview-terraform/assets/102232954/3fa2f9a4-3bbc-42d0-b035-215d3749405c">
 <br>
 ### Below this, you will see the exact percentage of positive, negative, and neutral reviews. 
